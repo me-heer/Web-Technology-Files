@@ -1,0 +1,27 @@
+p{
+	height: 400px;
+	width: 600px;
+	color: aliceblue;
+	background-image: url(TPEWallpaper.png);
+	background-repeat: repeat-x;
+	background-position: 50% 50%;	
+	text-align: center;
+	text-transform: uppercase;
+	text-indent: 50%;
+	letter-spacing: 2px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-shadow: antiquewhite;
+	font-style: italic;
+	font-size: larger;
+	font-weight: 700;
+	border: 10px dashed greenyellow;
+	
+	
+
+	float: right;
+}	
+
+div{
+	border: 10px solid greenyellow;
+
+}
