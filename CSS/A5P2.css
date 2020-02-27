@@ -1,0 +1,15 @@
+h1 h2 h3 h4 h5 h6{
+    font-style: normal;
+    font-size: 120%;
+}
+
+ .arial{
+     font-family: Arial;
+     font-style: bold;
+}
+
+body{
+    background-color: yellow;
+    background-image: url(PlayLearn.png);
+    background-repeat: no-repeat;
+}
